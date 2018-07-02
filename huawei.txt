@@ -1,0 +1,13 @@
+{
+  "app": {
+    "version": "5.6.0",
+    "versionCode": "100",
+    "link": "https://github.com/topjohnwu/MagiskManager/releases/download/v5.6.0/MagiskManager-v5.6.0.apk"
+  },
+  "magisk": {
+    "version": "15.4",
+    "versionCode": "1541",
+    "link": "https://forum.xda-developers.com/attachment.php?attachmentid=4419235&d=1518563171",
+    "note": "https://forum.xda-developers.com/honor-view-10/development/magisk-root-honor-view-10-mate-10-pro-t3749280"
+  }
+}
