@@ -3,6 +3,7 @@
 
 var proxy = "PROXY 127.0.0.1:8080;";
 
+
 var rules = [
   "|http://85.17.73.31/",
   "||agnesb.fr",
